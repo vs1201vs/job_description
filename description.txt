@@ -1,0 +1,27 @@
+IBM Data Engineer Role - Sydney, AU
+Job Title
+Data Engineer
+
+Company
+IBM
+
+Location
+Sydney, Australia
+
+Job Description Overview
+The Data Engineer at IBM is responsible for building and managing scalable data pipelines and integrating data from diverse sources to support business analytics and decision-making. The role involves transforming raw data into valuable insights, ensuring data quality, and developing data models for analytical use.
+
+Key Responsibilities
+Data Integration: Combining data from various sources to create comprehensive data sets for analysis.
+Data Cleaning: Ensuring data accuracy and completeness before analysis.
+Data Modeling: Structuring data to optimize analytical processes and support business decisions.
+Collaboration: Working with data scientists, analysts, and other stakeholders to understand data requirements and deliver solutions that meet business needs.
+Innovation: Leveraging the latest technologies and methodologies to improve data processing and analysis.
+Job Requirements
+Technical Skills: Proficiency in data engineering tools and technologies, such as SQL, Python, ETL processes, and cloud platforms.
+Experience: Previous experience in data engineering, data management, or related fields.
+Education: A degree in Computer Science, Data Science, Engineering, or a related discipline.
+Soft Skills: Strong problem-solving abilities, teamwork, and communication skills.
+Reference
+This job description was originally available on IBM's careers page but has since been filled and removed. For further details, refer to the repository link where this text file is stored.
+
